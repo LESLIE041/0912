@@ -21,5 +21,8 @@ macos启动vue项目
 sudo npm i element-ui -S
 
 
+安装element- UI-plus
+sudo npm install element-plus --save
+
 
 ！！！！以上操作全部加上sudo，否则没有权限
