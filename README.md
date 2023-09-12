@@ -10,6 +10,8 @@ macos启动vue项目
 
 
 淘宝镜像加速：sudo npm install -g cnpm --registry=https://registry.npm.taobao.org
+
+
 创建项目：sudo vue create 名称
 
 
