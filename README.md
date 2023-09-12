@@ -15,5 +15,11 @@ macos启动vue项目
 创建项目：sudo vue create 名称
 
 
+启动vue：sudo npm run serve
+
+安装element-ui：
+sudo npm i element-ui -S
+
+
 
 ！！！！以上操作全部加上sudo，否则没有权限
